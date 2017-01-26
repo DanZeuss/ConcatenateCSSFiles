@@ -1,0 +1,31 @@
+{
+  "name": "concatenagintcssfiles",
+  "version": "1.0.0",
+  "description": "This is an example about how to concatenate CSS files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanZeuss/ConcatenateCSSFiles.git"
+  },
+  "keywords": [
+    "gulp",
+    "css",
+    "concatenate",
+    "aggregate",
+    "files"
+  ],
+  "author": "danlatouche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanZeuss/ConcatenateCSSFiles/issues"
+  },
+  "homepage": "https://github.com/DanZeuss/ConcatenateCSSFiles#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-cssnano": "^2.1.2"
+  }
+}
